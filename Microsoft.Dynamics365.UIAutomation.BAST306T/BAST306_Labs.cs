@@ -12,7 +12,7 @@ using System.Reflection;
 using Microsoft.ApplicationInsights.DataContracts;
 using System.Diagnostics;
 
-namespace Microsoft.Dynamics365.UIAutomation.Sample.UCI
+namespace Microsoft.Dynamics365.UIAutomation.BAST306T
 {
     [TestClass]
     public class BAST306_Labs

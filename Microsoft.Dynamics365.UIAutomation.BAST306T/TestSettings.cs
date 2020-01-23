@@ -4,7 +4,7 @@ using Microsoft.Dynamics365.UIAutomation.Api;
 using Microsoft.Dynamics365.UIAutomation.Browser;
 using System;
 
-namespace Microsoft.Dynamics365.UIAutomation.Sample
+namespace Microsoft.Dynamics365.UIAutomation.BAST306T
 {
     public static class TestSettings
     {
